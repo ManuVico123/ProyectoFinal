@@ -15,3 +15,5 @@ programador de interfaz gráfica (figma, uml, entre otros) ayudante en apartado 
 
 Giesell Batista:
 programador de interfaz de datos (MySQL), otorgador de ideas en sección de código y encargada de la representación de la base de datos y su funcionalidad
+
+Proyecto 2MB

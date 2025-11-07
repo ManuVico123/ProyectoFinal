@@ -1,6 +1,6 @@
 este programa registra y "publica" las inasistencias docentes
 
-es necesario registrar un usuario en el mismo programa
+es necesario registrar un usuario en el mismo programa para proseguir en el
 
 requisitos
  un procesador de 1.2 GHz 

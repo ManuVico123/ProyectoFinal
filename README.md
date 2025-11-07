@@ -1,6 +1,7 @@
 este programa registra y "publica" las inasistencias docentes
 
 es necesario registrar un usuario en el mismo programa para proseguir en el
+Programas que usamos: Apache NetBeans, Xampp MySQL, uml figma, github
 
 requisitos
  un procesador de 1.2 GHz 
